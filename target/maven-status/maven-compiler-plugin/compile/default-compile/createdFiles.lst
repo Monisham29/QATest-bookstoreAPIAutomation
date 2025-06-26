@@ -1,0 +1,6 @@
+bookstore\api\HealthAPI.class
+bookstore\MainRunner.class
+bookstore\api\UserAPI.class
+bookstore\models\Book.class
+bookstore\utils\TokenUtil.class
+bookstore\api\BookAPI.class
